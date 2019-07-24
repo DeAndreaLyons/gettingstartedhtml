@@ -1,4 +1,4 @@
-body{
+#static{
     background-color: pink;
 }
 
@@ -15,5 +15,12 @@ ul{
 }
 
 h1{
-    color:blueviolet
+    color:blueviolet;
+}
+div{
+    color: purple;
+}
+
+#absolutes{
+    background-color: blueviolet
 }
